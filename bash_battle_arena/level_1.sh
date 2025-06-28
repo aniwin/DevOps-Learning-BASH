@@ -5,7 +5,7 @@
  List the contents of the Arena directory.
  '
 
-mkdir Arena && cd $_
+mkdir  -p Arena && cd $_
 touch warrior.txt mage.txt archer.txt
 ls
  
